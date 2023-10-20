@@ -46,5 +46,5 @@
 
 ### `template` 文件夹
 
-$\LaTeX$格式的论文
+$\LaTeX$ 格式的论文
 
